@@ -1,0 +1,16 @@
+body{
+    padding: 10px;
+}
+label {
+    display: flex;
+    font-weight: bold;
+}
+button {
+    display: flex;
+}
+input {
+    margin-bottom: 20px;
+}
+textarea {
+    margin-bottom: 20px;
+}
